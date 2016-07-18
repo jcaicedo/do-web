@@ -133,13 +133,13 @@ nav ul, nav ol, nav li {
 }
 
 .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover
-	{
+{
 	color: #ffffff;
 	background-color: transparent;
 }
 
 .language-icons{
-	margin:30px 60px 0px 0px;
+	margin:68px 60px 0px 0px;
 }
 
 .language-icons a{
@@ -455,29 +455,29 @@ nav ul, nav ol, nav li {
 }
 
 ul#social-list {
-    padding: 0;
+	padding: 0;
 }
 
 @media only screen and (min-width: 320px) {
 	ul#social-list{
-		 padding: 10px;
+		padding: 10px;
 	}
 }
 
 @media only screen and (min-width: 480px) {
 	ul#social-list{
-		 padding: 10px;
+		padding: 10px;
 	}
 }
 
 @media only screen and (min-width: 766px) {
 	ul#social-list{
-		 padding: 0px;
+		padding: 0px;
 	}
 }
 
 ul#social-list li {
-    display: inline;
+	display: inline;
 }
 
 ul{
@@ -485,13 +485,13 @@ ul{
 }
 
 ul#social-list li a {
-    line-height: 10px;
-    text-decoration: none;
+	line-height: 10px;
+	text-decoration: none;
 }
 
 ul#social-list li a img{
-    padding: 10px 10px;
-    width: 50px;
+	padding: 10px 10px;
+	width: 50px;
 }
 
 .btn{

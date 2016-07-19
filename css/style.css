@@ -112,11 +112,15 @@ nav ul, nav ol, nav li {
 }
 
 @media ( min-width : 768px) {
+	.navbar-header{
+		padding-left: 9% !important;
+	}
 	.navbar .navbar-nav {
 		display: inline-block;
 		float: none;
 		margin-left: 200px;
 		vertical-align: top;
+
 	}
 	.navbar .navbar-collapse {
 		text-align: center;
@@ -238,8 +242,8 @@ nav ul, nav ol, nav li {
 
 @media only screen and (min-width: 1024px) {
 	#content section {
-		width: 900px;
-		margin-left: 200px;
+		width: 100%;
+		margin-left: 22%;
 	}
 }
 
@@ -270,12 +274,12 @@ nav ul, nav ol, nav li {
 
 @media only screen and (min-width: 1024px) {
 	.home_title{
-		font-size: 5em;
+		font-size: 7em;
 	}
 }
 
 .home_subtitle{
-	font-size: 4em;
+	font-size: 7em;
 	font-family: BuiltTitling;
 	font-weight: normal;
 	color: #000;
@@ -423,7 +427,7 @@ nav ul, nav ol, nav li {
 
 @media only screen and (min-width: 991px) {
 	.background-left{
-		width: 60%;
+		width: 43%;
 	}
 }
 

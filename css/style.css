@@ -60,7 +60,6 @@ h1, h2, h3, p {
 
 	footer {
 		width: 100%;
-		position: absolute;
 		bottom: 0;
 		background: #dc1f26;
 		z-index: 10;

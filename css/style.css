@@ -34,7 +34,7 @@ body {
 	background: #ffffff;
 	color: #d9d6d5;
 	font-family: BuiltTitling;
-	font-size: 1em;
+	/*font-size: 1em;*/
 }
 
 a {
@@ -145,6 +145,10 @@ h1, h2, h3, p {
 		.navbar>.container-fluid .navbar-brand {
 			margin-left: 40px;
 		}
+/*
+		.jumbotron{
+			padding: 84px 0 !important;
+			}*/
 	}
 
 	.nav>li>a {
@@ -389,10 +393,10 @@ h1, h2, h3, p {
 		}
 	}
 
-	@media only screen and (min-width: 1024px) {
+/*	@media only screen and (min-width: 1024px) {
 		.footer-content{
 			padding: 0px 0px 0px 100px;
-		}
+			}*/
 	}
 
 	.join_us{

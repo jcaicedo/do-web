@@ -1,0 +1,43 @@
+@font-face {
+	font-family: 'BuiltTitling';
+	src: url('../fonts/built-titling-rg.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'BuiltTitling';
+	src: url('../fonts/built-titling-bd.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'BuiltTitling';
+	src: url('../fonts/built-titling-lt.ttf') format('truetype');
+	font-weight: lighter;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Raleway';
+	src: url('../fonts/Raleway-Light.ttf') format('truetype');
+	font-weight: lighter;
+	font-style: normal;
+}
+
+.navigation-menu span {
+	font-size: 2em;
+	color: #dc1f26;
+	text-align: center;
+}
+
+.language-icons{
+	margin: 30px 60px 0px 0px;
+	
+}
+
+.navbar-right{
+	float: right !important;
+}
+

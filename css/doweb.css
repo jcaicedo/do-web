@@ -88,7 +88,15 @@ p.info{
 	border-radius: 30px;
 	padding: 0px 40px;
 	font-size: 20px;
+
 }
+
+span.language{
+	font-size: 2em;
+	color: #dc1f26;
+	text-align: center;
+}
+
 
 
 
@@ -123,6 +131,9 @@ p.info{
 		font-size: 0.8em;
 	}
 	.imgcontent-relieve{display: none;}
+	#bs-example-navbar-collapse-1{
+		padding-top: 3.5em;	
+	}
 
 
 }
@@ -130,6 +141,9 @@ p.info{
 	.social{margin-top: 2.5em;}
 	.imgcontent-relieve{display: inline;padding-right: 0;padding-left: 0;}		
 	.img-relieve{height: 34em;}
+	#bs-example-navbar-collapse-1{
+		padding-top: 4em;	
+	}
 }
 
 
@@ -141,6 +155,10 @@ p.info{
 	.content-logo{padding-left: 6em;}
 	.logo{height: 100%;}
 	h1.title-header{font-size: 3.5em;}
+	#bs-example-navbar-collapse-1{
+		padding-top: 3.5em;	
+	}
+
 
 }
 
